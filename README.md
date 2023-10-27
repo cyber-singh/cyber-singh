@@ -1,4 +1,4 @@
-</h1>Hi, I'm Jugraj, an <a href="https://linkedin.com/in/cybersingh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jugraj, an <a href="https://linkedin.com/in/cybersingh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
